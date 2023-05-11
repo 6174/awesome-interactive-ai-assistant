@@ -1,4 +1,4 @@
-# 😎 Awesome Interactive AI Assistant
+# 😎 Awesome Interactive AI Assistant (WIP)
 
 A curated list to collect everything about how to make an interactive ai assistant
 
